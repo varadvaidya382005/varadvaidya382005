@@ -5,7 +5,8 @@
 ---
 
 ## 🌐 GitHub Profile
-🔗 https://github.com/varadvaidya382005
+🔗 https://github.com/varadvaidya382005  
+
 ---
 
 ## 🧑‍💻 About Me
@@ -19,23 +20,23 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Java | Python | JavaScript | C++
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ☕ Backend & Frameworks
-- Spring Boot  
-- Spring AI  
-- Spring MVC  
-- Hibernate / JPA  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/SpringAI-000000?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
 ### 🌐 Web & APIs
 - REST APIs  
 - Microservices Architecture  
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub  
-- Docker  
-- Postman  
-- Linux / MacOS  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -54,17 +55,17 @@
 
 ### 🔹 EV Booking Management Service
 - Microservices-based backend system  
-- Git branch management, deployments & scaling  
+- Branch management, deployments & scaling  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varadvaidya382005&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=varadvaidya382005&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varadvaidya382005&layout=compact&theme=radical)
 
 ---
 
@@ -76,13 +77,12 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://www.linkedin.com/in/varadvaidya382005  
 
 ---
 
 ## 👀 Profile Views
-www.linkedin.com/in/varadvaidya382005
+![Visitor Count](https://komarev.com/ghpvc/?username=varadvaidya382005&color=blue)
 
 ---
 
@@ -91,4 +91,4 @@ Turning coffee ☕ into scalable backend systems & AI apps
 
 ---
 
-
+⭐️ From https://github.com/varadvaidya382005
