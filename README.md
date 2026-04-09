@@ -5,8 +5,7 @@
 ---
 
 ## 🌐 GitHub Profile
-🔗 https://github.com/YOUR_USERNAME  
-
+🔗 https://github.com/varadvaidya382005
 ---
 
 ## 🧑‍💻 About Me
@@ -83,7 +82,7 @@
 ---
 
 ## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+www.linkedin.com/in/varadvaidya382005
 
 ---
 
@@ -92,4 +91,4 @@ Turning coffee ☕ into scalable backend systems & AI apps
 
 ---
 
-⭐️ From https://github.com/YOUR_USERNAME
+
